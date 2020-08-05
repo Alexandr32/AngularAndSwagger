@@ -1,3 +1,3 @@
 # AngularAndSwagger
 
-вызов swagger https://localhost:****/swagger
+вызов swagger https://localhost:****/swagger/index.html
